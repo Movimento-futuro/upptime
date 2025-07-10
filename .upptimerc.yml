@@ -9,7 +9,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://movimento-futuro.github.io/upptime/
+  cname: movimento-futuro.github.io/upptime
   # baseUrl: https://github.com/Movimento-futuro/upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -19,7 +19,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/Movimento-futuro/upptime
+      href: github.com/Movimento-futuro/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
